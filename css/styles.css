@@ -1,0 +1,30 @@
+* {
+  font-family: arial;
+}
+
+h1 {
+  color: #FF0000;
+  text-align: center;
+
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: arial;
+  font-weight: bold;
+}
+
+ul {
+  font-size: 40px;
+  line-height: 90px;
+}
+
+img {
+  height: 80px;
+  padding: 5px 50px 5px 10px;
+  float: left;
+}

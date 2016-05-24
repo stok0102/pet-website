@@ -1,0 +1,36 @@
+* {
+  font-family: arial;
+}
+
+h1 {
+  color: #FF0000;
+  text-align: center;
+
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: arial;
+  font-weight: bold;
+  text-align: center;
+}
+
+li {
+  font-size: 40px;
+  line-height: 150px;
+}
+
+li li {
+  line-height: normal;
+}
+
+img {
+  height: 150px;
+  padding: 5px 10px 15px 10px;
+  border: 5px 5px 5px 5px;
+  border-style: solid;
+}
