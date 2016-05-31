@@ -28,3 +28,7 @@ img {
   padding: 5px 50px 5px 10px;
   float: left;
 }
+.dark-background{
+  background-color: #204060;
+  color: white;
+}
